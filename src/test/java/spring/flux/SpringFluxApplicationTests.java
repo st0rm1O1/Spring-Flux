@@ -1,4 +1,4 @@
-package st0rm1O1.spring_flux;
+package spring.flux;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

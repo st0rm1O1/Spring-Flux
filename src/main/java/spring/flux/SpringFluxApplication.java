@@ -1,4 +1,4 @@
-package st0rm1O1.spring_flux;
+package spring.flux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
